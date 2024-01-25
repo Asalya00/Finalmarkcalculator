@@ -1,0 +1,17 @@
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.Form1.resources
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.csproj.GenerateResource.cache
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.AssemblyInfoInputs.cache
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.AssemblyInfo.cs
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.csproj.CoreCompileInputs.cache
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.sourcelink.json
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\bin\Debug\net8.0-windows\finalmarkcalculator.exe
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\bin\Debug\net8.0-windows\finalmarkcalculator.deps.json
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\bin\Debug\net8.0-windows\finalmarkcalculator.runtimeconfig.json
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\bin\Debug\net8.0-windows\finalmarkcalculator.dll
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\bin\Debug\net8.0-windows\finalmarkcalculator.pdb
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.dll
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\refint\finalmarkcalculator.dll
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.pdb
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\finalmarkcalculator.genruntimeconfig.cache
+C:\Users\gunar\OneDrive\Desktop\finalmarkcalculator\finalmarkcalculator\obj\Debug\net8.0-windows\ref\finalmarkcalculator.dll
